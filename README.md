@@ -1,2 +1,14 @@
-# Myshell
-A simple Shell or Command Line Interpreter for simple interactions with the Linux Kernel implemented in C for CSC 415: Operating Systems, at San Francisco State University
+# CSC 415 - Project 3 - My Shell
+
+## Student Name: Grant Kennedy
+
+## Student ID: 913056513
+
+## Build Instructions
+Build using makefile included in repo.
+
+## Run Instructions
+After compiling, run with "./myshell" from linux command line
+
+## List Extra Credits completed (if non attempted leave blank)
+current working directory is shown
